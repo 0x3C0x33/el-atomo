@@ -6,7 +6,8 @@
 [![Discord4J](https://img.shields.io/badge/Discord4J-3.2.4-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord4j.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4.9-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Gradle](https://img.shields.io/badge/Gradle-7.5.1-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
-[![Project](https://img.shields.io/badge/Proyecto-TFC-blueviolet?style=for-the-badge)](https://github.com/0x3C0x33/El_Atomo)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
+[![Project](https://img.shields.io/badge/Proyecto-TFC-blueviolet?style=for-the-badge)](https://github.com/0x3C0x33/el-atomo)
 
 <p align="center">
   <b>Un bot de Discord educativo e interactivo inspirado en <a href="https://poketwo.net/">Pokétwo</a>, donde los elementos de la tabla periódica cobran vida.</b>
@@ -111,8 +112,8 @@ graph TD
 
 ### 2. Clonar el Repositorio
 ```bash
-git clone https://github.com/0x3C0x33/El_Atomo.git
-cd El_Atomo
+git clone https://github.com/0x3C0x33/el-atomo.git
+cd el-atomo
 ```
 
 ### 3. Configurar el Token de Discord
@@ -153,4 +154,4 @@ Para continuar evolucionando este proyecto tras el TFC, se recomiendan las sigui
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia **MIT** / **GPL-3.0**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está licenciado bajo la **GNU General Public License v3.0 (GPL-3.0)**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
